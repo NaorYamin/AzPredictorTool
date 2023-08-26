@@ -1,4 +1,5 @@
 Get-Module PSReadLine
+Install-Module -Name Az 
 Install-Module -Name Az.Accounts
 install-Module -Name Az.Tools.Predictor
 enable-AzPredictor -AllSession
